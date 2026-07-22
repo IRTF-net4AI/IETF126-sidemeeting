@@ -13,7 +13,7 @@ The idea to have this side meeting is to continue the discussion about research 
 | Time | Topic | Slides |
 | --- | --- | --- |
 | 12:00 – 12:05 _(5 min)_ | Meeting setup and introduction of the meeting  | N/A |
-| 12:05 – 12:35 _(30 min)_ | _Gym & Benchmarks  for Network Agents_ by Dario Rossi _(Huawei)_ | N/A |
+| 12:05 – 12:35 _(30 min)_ | _Gym & Benchmarks  for Network Agents_ by Dario Rossi _(Huawei)_ | [Slides](https://github.com/IRTF-net4AI/IETF126-sidemeeting/blob/main/slides/IETF126-NetworkingAgents.pdf) |
 | 12:35 – 13:45 _(70 min)_ | _Discussion on charter for future Research Group_ | N/A |
 
 ## Talk abstract
