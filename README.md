@@ -8,6 +8,9 @@ The idea to have this side meeting is to continue the discussion about research 
 * __Remote participation:__  https://ietf.webex.com/meet/sidemeetings1 (IETF Webex)
 * __Notes:__ TBD
 
+  ## Mailing list
+  Discussions around the side meeting should happen on the [Net4AI mailing list](https://mailman3.irtf.org/mailman3/lists/net4ai.irtf.org/).
+
 ## Agenda:
 
 | Time | Topic | Slides |
